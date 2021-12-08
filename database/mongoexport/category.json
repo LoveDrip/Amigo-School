@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5cf672812481b359301b7116" }, "id" : "1", "schoolId" : "2", "name" : "Drinks", "status" : "enabled", "createdAt" : "2019-06-04 07:00:41", "changedAt" : "2019-06-04 07:00:41", "timestamp" : "1559655041931" }
+{ "_id" : { "$oid" : "5cf6729b2481b359301b7117" }, "id" : "2", "schoolId" : "2", "name" : "sandwich", "status" : "enabled", "createdAt" : "2019-06-04 07:01:07", "changedAt" : "2019-06-04 07:01:07", "timestamp" : "1559655067004" }

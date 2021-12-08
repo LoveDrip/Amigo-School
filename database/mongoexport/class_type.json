@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5cf671ad2481b359301b7111" }, "id" : "1", "schoolId" : "2", "name" : "Junior", "status" : "enabled", "createdAt" : "2019-06-04 06:57:09", "changedAt" : "2019-06-04 06:58:38", "timestamp" : "1559654829724" }
