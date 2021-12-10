@@ -1,0 +1,29 @@
+{ 
+    "_id" : ObjectId("5ce3d31414fa170825da6591"), 
+    "id" : "1", 
+    "name" : "St. Vincent", 
+    "address" : "No. 2005/2006, St. Vincent's Street, Camp, Pune, Maharashtra 411001", 
+    "img" : "assets/uploads/img/schools/_M3VI9V023U2-ntTSCre2MZU.jpg", 
+    "onDays" : "YYYYYNN", 
+    "access_token" : "sk_test_l0MKZZB92ngTBuEIaPL19J78008mNqd6Do", 
+    "refresh_token" : "rt_F9i2NTJHy1a62T2Gi871nP6hzNBVkwMWWB0OQpv84Ixcz4xX", 
+    "token_type" : "bearer", 
+    "stripe_publishable_key" : "pk_test_fgzNzgLQzYumuPt60Tujc9fp00m5tDD7kt", 
+    "stripe_user_id" : "acct_1AP6r4BsTE0cmpDC", 
+    "authorized" : true, 
+    "scope" : "read_write", 
+    "createdAt" : "2019-05-17 22:00:00", 
+    "changedAt" : "2019-06-04 06:53:57", 
+    "timestamp" : "15502302312"
+}
+{ 
+    "_id" : ObjectId("5cf66fcde627cd73450a4f7d"), 
+    "id" : "2", 
+    "name" : "St. Vincent", 
+    "address" : "No. 2005/2006, St. Vincent's Street, Camp, Pune, Maharashtra 411001", 
+    "authorized" : true, 
+    "createdAt" : "2019-05-17 22:00:00", 
+    "changedAt" : "2019-06-04 07:00:02", 
+    "timestamp" : "15502302312", 
+    "onDays" : "YYYYNNN"
+}

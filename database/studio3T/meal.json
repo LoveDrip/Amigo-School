@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5cf672262481b359301b7113"), 
+    "id" : "1", 
+    "schoolId" : "2", 
+    "name" : "Lunch", 
+    "status" : "enabled", 
+    "createdAt" : "2019-06-04 06:59:10", 
+    "changedAt" : "2019-06-04 06:59:10", 
+    "timestamp" : "1559654950519"
+}
+{ 
+    "_id" : ObjectId("5cf6722e2481b359301b7114"), 
+    "id" : "2", 
+    "schoolId" : "2", 
+    "name" : "Recess", 
+    "status" : "enabled", 
+    "createdAt" : "2019-06-04 06:59:18", 
+    "changedAt" : "2019-06-04 06:59:18", 
+    "timestamp" : "1559654958768"
+}
